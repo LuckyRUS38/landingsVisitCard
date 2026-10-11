@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://visit-card.landing.luckyrus.dev/sitemap.xml
